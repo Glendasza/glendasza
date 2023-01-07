@@ -12,7 +12,7 @@ Olá, eu sou Glenda Souza
 
 - HTML
 - CSS
-- Javascript e Typescript
+- Javascript 
 - React 
 
 ## Meus Contatos 
