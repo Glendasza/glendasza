@@ -1,22 +1,11 @@
-# Bem vindo(a) ao meu perfil
+#### HI THERE :sunglasses:
 
-Olá, eu sou Glenda Souza
+Olá, eu sou Glenda Souza, sou uma desenvolvedora front-end em evolução. Atualmente estou aprendendo e criando projetos com:
+ 
+    - HTML, CSS, JAVASCRIPT e REACT.
 
-## Meus hobbies 
+#### Meus Contatos 
 
-- Sair/estar com os amigos
-- Redes sociais
-- Viajar
-
-## Atualmente estudando 
-
-- HTML
-- CSS
-- Javascript 
-- React 
-
-## Meus Contatos 
-
-- GitHub: @glendasza
-- Instagram: @glendaszaa
-- Email: glendasza@gmail.com
+<p>
+<a href="https://www.linkedin.com/in/glenda-souza-961799231/">
+<img align="left" alt="icone do linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/49/49408.png">
