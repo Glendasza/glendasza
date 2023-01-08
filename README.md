@@ -4,7 +4,7 @@ Olá, eu sou Glenda Souza, sou uma desenvolvedora front-end em evolução. Atual
  
     - HTML, CSS, JAVASCRIPT e REACT.
 
-#### Meus Contatos 
+#### Meus Contatos :
 
 <p>
 <a href="https://www.linkedin.com/in/glenda-souza-961799231/">
