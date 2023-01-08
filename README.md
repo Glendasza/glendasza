@@ -1,4 +1,4 @@
-#### HI THERE :sunglasses:
+#### OLÁ :sunglasses:
 
 Olá, eu sou Glenda Souza, sou uma desenvolvedora front-end em evolução. Atualmente estou aprendendo e criando projetos com:
  
